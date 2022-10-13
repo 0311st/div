@@ -1,0 +1,27 @@
+/* CSS Document */
+h1{color:#7895B2;}
+h2{color:#19B455;}
+h3{color:#00FFF2;}
+h4{color:#0B3219;}
+h5{color:#27BAD3;}
+h6{color:#2E0BEC;}
+
+body{
+	background-color: #F9956F;
+	color:#555555;
+	font-family:Arial,Hevetica,sans-serif;
+	font-size:16px;
+	font-weight:normal;
+	line-height:1.6em;
+	margin:0px;
+	}
+
+.box-1{
+		background-color:#8F0002;
+		color:cornflowerblue;
+	}
+
+.container{
+	width:80%;
+	margin:auto;
+}
